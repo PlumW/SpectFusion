@@ -121,7 +121,7 @@ class fusion_loss_med(nn.Module):
         self.L_SSIM = L_SSIM()
         self.Freq = FrequencyCharLoss()
 
-        # print(1)
+    
     def forward(self, image_A, image_B, image_fused):
         # image_A represents MRI image
         loss_l1 =  self.L_Inten(image_A, image_B, image_fused) #20
