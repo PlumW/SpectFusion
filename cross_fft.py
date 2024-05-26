@@ -1,5 +1,4 @@
-# 姓名：Plum
-# 开发时间：2023/11/23 16:59
+
 import torch
 import torch.nn as nn
 class FFT2D(nn.Module):
