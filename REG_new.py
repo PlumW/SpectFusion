@@ -1,5 +1,4 @@
-# 姓名：Plum
-# 开发时间：2024/2/26 15:03
+
 import torch.nn.functional as F
 import torch
 import torch.nn as nn
