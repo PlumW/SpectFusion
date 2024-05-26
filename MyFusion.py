@@ -1,8 +1,4 @@
-# 姓名：Plum
-# 开发时间：2024/2/26 15:01
-# 姓名：Plum
-# 开发时间：2023/12/4 19:20
-# 姓名：Plum
+
 from matplotlib import pyplot as plt
 
 from DO_conv import DOConv2d
